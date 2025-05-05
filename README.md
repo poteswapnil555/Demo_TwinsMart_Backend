@@ -45,8 +45,8 @@ This is a **TypeScript Node.js Express backend API** for an e-commerce applicati
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/poteswapnil555/Demo_TwinsMart_Backend.git
+cd Demo_TwinsMart_Backend
 ```
 
 ### 2. Install Dependencies
